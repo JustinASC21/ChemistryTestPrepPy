@@ -4,3 +4,5 @@ Chemistry Test Prep Game, uses symbols and their given names to help the user re
 Uses dictionaries to match user input with the correct answer, and keep score.
 Uses a little bit of web scrapping to initially grab chemical symbols
 While loop to have the user keep playing until they want to quit.
+
+-Justin L
